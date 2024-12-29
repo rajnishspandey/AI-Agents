@@ -65,7 +65,7 @@ https://www.phidata.com/
 ***Helping hands for AI journey***
 >  models - ollama.com, huggingface.co
 
->  AI Agents - phidata.com
+>  AI Agents - phidata.com, microsoft.github.io/autogen/0.2/, langflow.org, 
 
 >  Data Engineering - kaggle.com
 
