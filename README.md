@@ -39,7 +39,7 @@ python financial_agent.py
 
 and see the magic
 
-***Note : - *** Groq id in the code can change over the time but no worries you can find it on groq portal anytime and use accordingly inside devconsole>models
+***Note : -*** Groq id in the code can change over the time but no worries you can find it on groq portal anytime inside devconsole>models and use accordingly.
 
 references
 https://www.phidata.com/
