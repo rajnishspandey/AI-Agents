@@ -41,3 +41,10 @@ and see the magic
 
 references
 https://www.phidata.com/
+
+SOME EXTRA INFO 
+Helping hands for AI journey
+models - ollama.com, huggingface.co
+AI Agents - phidata.com
+Data Engineering - kaggle.com
+to deploy the models - groq.com
