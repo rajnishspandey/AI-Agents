@@ -39,6 +39,21 @@ python financial_agent.py
 
 and see the magic
 
+incase if it failes
+just run see if you see phi and phidata
+```shell
+conda list phi
+```
+
+if yes then
+```shell
+pip uninstall phi
+```
+
+now you should be good to go. run the python file again and have fun.
+
+Happy learning.
+
 ***Note : -*** Groq id in the code can change over the time but no worries you can find it on groq portal anytime inside devconsole>models and use accordingly.
 
 references
