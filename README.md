@@ -2,8 +2,8 @@
 In this repository I have added some example of creating AI Agents.
 
 ## Prerequisites
-1 - must have groq api key if you don't have login to https://groq.com/ from Dev console, generate the key
-2 - have some basic knowledge of python
+-  must have groq api key if you don't have login to https://groq.com/ from Dev console, generate the key
+-  have some basic knowledge of python
 
 # AI Agent creation
 
