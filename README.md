@@ -6,7 +6,7 @@ In this repository I have added some example of creating AI Agents.
 -  have some basic knowledge of python
 
 # AI Agent creation
-After you pull the code make sure to create .env file and save the groq api key into it as GROQ_API_KEY = "<your api key>"
+After you pull the code make sure to create .env file and save the groq api key into it as GROQ_API_KEY = "<yourkey>"
 
 1 -  create virtual environment
 ```shell
