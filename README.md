@@ -40,8 +40,8 @@ python financial_agent.py
 
 and see the magic
 
-incase if it failes
-just run see if you see phi and phidata
+incase if it fails,
+just run to check if you see phi and phidata both
 ```shell
 conda list phi
 ```
